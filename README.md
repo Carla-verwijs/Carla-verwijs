@@ -1,54 +1,51 @@
 # Carla Verwijs-Rodriguez
 
-**Computational Linguist | NLP Researcher | Language & AI**
+**Computational Linguist · Language Educator · Researcher**
 
-I'm a linguist transitioning into computational linguistics and NLP, currently completing my MA in **Linguistics: Language & AI** at Vrije Universiteit Amsterdam. My work sits at the intersection of Spanish linguistics, corpus analysis, and machine learning for language.
+I'm a Dutch-Colombian linguist with first-degree teaching qualifications (*eerstegraads bevoegdheid*) in Spanish and English, currently completing a Master's in Linguistics: Language & AI at Vrije Universiteit Amsterdam. My background combines formal linguistics, language education, and NLP research, with a particular focus on Spanish and multilingual data.
 
----
-
-## What I work on
-
-- **NLP & Text Classification** — emotion detection, named entity recognition, negation scope detection
-- **Corpus Linguistics** — annotation, discourse analysis, dialogue acts
-- **Machine Learning for NLP** — fine-tuning BERT, SVM classifiers, BoW models
-- **Language as Data** — ELAN annotation, bilingual conversation analysis
+I hold a BA in English, Spanish and French and an MA in Education, and have written academic work in linguistics and education. I currently work as a Student Research Assistant at the ILLC (University of Amsterdam) in NLP and corpus linguistics focused on Spanish, and as an intern at the Search & Language team of the Dutch Ministry of Defense, where I apply computational linguistics methods to large document collections.
 
 ---
 
-## Current roles
-
-- 🔬 **Student Research Assistant** — ILLC, University of Amsterdam *(NLP & Corpus Linguistics, Spanish)*
-- 🏛️ **Intern** — Search & Language team, Ministry of Defense NL *(computational linguistics, document quality, information retrieval)*
-- 👩‍🏫 **Lecturer** — Wittenborg University of Applied Sciences *(Spanish Language & Module Leader)*
-
----
-
-## Selected projects
+## Research & projects
 
 | Repository | Description |
 |---|---|
-| [ml4nlp-emotion-classification](https://github.com/Carla-verwijs/ml4nlp-emotion-classification) | Emotion detection from tweets using BoW+SVM and BERT fine-tuning |
-| [ner-bert-finetuning](https://github.com/Carla-verwijs/ner-bert-finetuning) | Named Entity Recognition with fine-tuned BERT on CoNLL data |
-| [negation-scope-detection](https://github.com/Carla-verwijs/negation-scope-detection) | Negation scope detection with BERT — error & counterfactual analysis |
-| [hlt-labs](https://github.com/Carla-verwijs/hlt-labs) | Human Language Technology labs: chatbots, LLMs, word meaning, annotation |
-| [language-as-data](https://github.com/Carla-verwijs/language-as-data) | Corpus annotation and bilingual conversation analysis (ELAN) |
+| [ml4nlp-ner-bert](https://github.com/Carla-verwijs/ml4nlp-ner-bert) | Named Entity Recognition: baseline → multi-system comparison (LR, NB, SVM, embeddings) → BERT fine-tuning + feature ablation |
+| [hlt-emotion-classification](https://github.com/Carla-verwijs/hlt-emotion-classification) | Emotion detection from tweets — Bag-of-Words + SVM |
+| [text-mining-negation-scope](https://github.com/Carla-verwijs/text-mining-negation-scope) | Negation scope detection with DistilBERT — error & counterfactual analysis |
+| [hlt-labs](https://github.com/Carla-verwijs/hlt-labs) | Human Language Technology labs: chatbots, word embeddings, LLMs, generative AI |
+| [language-as-data](https://github.com/Carla-verwijs/language-as-data) | ELAN corpus annotation + pragmatic analysis of *"yeah"* in L2 English conversation |
+
+---
+
+## Experience
+
+- 🔬 **Student Research Assistant** — ILLC, University of Amsterdam *(NLP & Corpus Linguistics, Spanish · 2026)*
+- 🏛️ **Intern, Search & Language** — Ministry of Defense NL *(NLP, document quality, information retrieval · 2026)*
+- 👩‍🏫 **Lecturer & Module Leader, Spanish** — Wittenborg University of Applied Sciences *(2022 – present)*
+- 🏫 **Spanish Teacher Havo/Vwo** — Persoonlijk VO Deventer *(2024 – 2025)*
 
 ---
 
 ## Education
 
 - **MA Linguistics: Language & AI** — Vrije Universiteit Amsterdam *(2025 – present)*
-- **MA in Education** — Universidad Externado de Colombia
-- **BA in English, Spanish & French** — Universidad de La Salle, Bogotá
+- **MA in Education** — Universidad Externado de Colombia *(2017 – 2019)*
+- **BA in English, Spanish & French** — Universidad de La Salle, Bogotá *(2011 – 2017)*
 
 ---
 
-## Languages & tools
+## Skills
 
 **Programming:** Python, Jupyter Notebooks  
-**NLP/ML:** HuggingFace Transformers, scikit-learn, NLTK, spaCy  
-**Annotation:** ELAN, LLM-based annotation pipelines  
-**Languages:** Spanish (native) · English (C1) · Dutch (B1) · French · German (A1)
+**ML models:** Logistic Regression · Naive Bayes · Linear SVM · BERT · DistilBERT · GridSearchCV hyperparameter tuning  
+**NLP/ML libraries:** HuggingFace Transformers · scikit-learn · NLTK · spaCy · Gensim · Datasets · Evaluate · LangChain  
+**Data & analysis:** Pandas · NumPy · Matplotlib · Seaborn  
+**Annotation tools:** ELAN · LLM-based annotation pipelines  
+**Languages:** Spanish (native) · English (C1) · Dutch (B1) · French · German (A1)  
+**Certifications:** Eerstegraads bevoegdheid Spanish & English (DUO)
 
 ---
 
